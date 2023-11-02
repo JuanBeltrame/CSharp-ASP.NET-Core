@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AMoGrqSCTN01mq0FfGnsKRJhkEp1+xyoH3ntEOts9u7T/fUOyqU9/nJbieFC7oIAJW3QMdzBUA35WsCDMLSDIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Roadmap\\3-ASP.NET-Core\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juan_\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
